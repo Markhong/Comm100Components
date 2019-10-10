@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="15.29" viewBox="0 0 18 15.29">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2{clip-path:url(#clip-path)}.cls-3{fill:#7a8c99}
+        </style>
+        <clipPath id="clip-path">
+            <path d="M0 0h18v15.29H0z" class="cls-1"/>
+        </clipPath>
+    </defs>
+    <g id="Control_Panel-灰色2-18px" class="cls-2" data-name="Control Panel-灰色2-18px">
+        <path id="路径_2671" d="M3201.569-1169h-1.456v4.733h1.456zm6.351 0h-1.456v8.191h1.456zm-7.079 5.643a2.73 2.73 0 0 0-2.73 2.73 2.729 2.729 0 0 0 2 2.629v4.288h1.456v-4.29a2.729 2.729 0 0 0 2-2.629 2.73 2.73 0 0 0-2.725-2.728zm13.267-3.9V-1169h-1.456v1.74a2.728 2.728 0 0 0-2 2.629 2.73 2.73 0 0 0 2.73 2.73 2.73 2.73 0 0 0 2.731-2.73 2.729 2.729 0 0 0-2.004-2.629zm-1.456 13.55h1.456v-7.281h-1.456zm-5.461-6.189a2.731 2.731 0 0 0-2.73 2.731 2.73 2.73 0 0 0 2 2.629v.829h1.456v-.829a2.729 2.729 0 0 0 2-2.629 2.731 2.731 0 0 0-2.725-2.735z" class="cls-3" data-name="路径 2671" transform="translate(-3198.111 1169)"/>
+    </g>
+</svg>
